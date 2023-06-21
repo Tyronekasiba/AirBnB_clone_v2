@@ -73,3 +73,4 @@ This project relies on the following environment variables:
 - **HBNB_MYSQL_PWD**: MySQL password.
 
 ## For any inquiry reach me @tyronekasiba@gmail.com or 
+## Kelvinjuma903@gmail.com
